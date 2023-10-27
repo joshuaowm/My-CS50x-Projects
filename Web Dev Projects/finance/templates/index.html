@@ -1,0 +1,38 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Portfolio
+{% endblock %}
+
+{% block main %}
+    <div action="/" class="section">
+        <table>
+            <thead>
+                <tr>
+                    <th>Symbol</th>
+                    <th>Shares</th>
+                    <th>Value</th>
+                    <th>Total Value</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for index in range(portfolio|length) %}
+                <tr>
+                    <td>{{ portfolio[index].stock }}</td>
+                    <td>{{ portfolio[index].shares }}</td>
+                    <td>{{ current_value[index] }}</td>
+                    <td>{{ total_value[index] }}</td>
+                </tr>
+                {% endfor %}
+                <tr>
+                    <th colspan="3">Cash</th>
+                    <td>{{ cash }}</td>
+                </tr>
+                <tr>
+                    <th colspan="3">TOTAL</th>
+                    <td>{{ big_total }}</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+{% endblock %}

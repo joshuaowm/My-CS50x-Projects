@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+
+How do you know?: because this sort have the quickest running time of sorted text, but also having the longest time in random & sorted text
+
+sort2 uses: Merge Sort
+
+How do you know?: because this sort have the quickest running time in all type of text (besides sorted text) and alos have a stable running time
+
+sort3 uses: Selection Sort
+
+How do you know?: because this sort is not the quickest but have a stable running time result in all type of text
