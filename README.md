@@ -1,5 +1,5 @@
-# My CS50 Projects
-Welcome to my **CS50** project portfolio, a testament to my journey of learning and exploration through the prestigious CS50x course by Harvard University. In this repository, you'll discover a curated selection of my projects, each exemplifying my expertise in computer science and programming.
+# My CS50x Projects
+Welcome to my **CS50x** project portfolio, a testament to my journey of learning and exploration through the prestigious CS50x course by Harvard University. In this repository, you'll discover a curated selection of my projects, each exemplifying my expertise in computer science and programming.
 
 ## About CS50
 **CS50** is a renowned course from Harvard University, offering an immersive and challenging learning experience in computer science and programming. Through a series of rigorous problem sets and engaging lectures, I've cultivated a strong foundation in these fields and applied my knowledge to create real-world projects, transforming into a well-rounded developer.
