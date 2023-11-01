@@ -1,7 +1,7 @@
-### Finance (Full-stack web app)
+# Finance (Full-stack web app)
 This is a web application that allows users to simulate stock trading by "buying" and "selling" stocks. Developed with Python using the Flask framework, it employs SQLite for database management, and HTML/CSS for front-end design. Users can register accounts, check real-time stock prices, manage their stock portfolio, and view transaction history.
 
-#### Tools Used
+## Tools Used
 - Languages: Python, HTML, CSS
 - Framework: Flask
 - Database: SQLite
