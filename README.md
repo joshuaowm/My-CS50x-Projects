@@ -24,4 +24,4 @@ Connect with me:
 
 **Check out my other project**: [Tracker](https://github.com/joshuaowm/Web-Map-Application)
 
-Thank you for visiting and sharing in my coding journey!
+Thank you for stopping by and exploring my coding journey!
